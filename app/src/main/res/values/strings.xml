@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="restaraunts">Restaraunts</string>
+    <string name="monuments">Monuments</string>
+    <string name="parks">Parks</string>
+
+    <string name="park_about_panfilov">The Panfilov Park of Culture and Leisure is an ideal place both for relaxation with loved ones and for those who want to get away from the bustle of the city and retire in the shade of trees. There is a great play area for children, where they will find the right entertainment for themselves. Also in the park there are carousels, on which, if desired, adults can ride and remember their childhood. Numerous comfortable benches, an abundance of greenery and flower beds in this park will ensure a comfortable pastime. Here you can read your favorite book, soak up the sun, eat ice cream, or simply admire the beautiful flowers and enjoy the birdsong.</string>
+    <string name="park_about_pobeda">Victory Monument (Victory Square): work on this memorial complex was completed in 1984. A woman stands over the eternal flame, waiting for her husband and sons who will never return home from the Great Patriotic War. The image that makes you think about the huge price paid for the victory.</string>
+    <string name="park_about_duboviy">Oak Park is one of the oldest parks in Bishkek. It houses an open-air sculpture museum, as well as several important monuments and buildings. Despite the fact that in 2010 the park was renamed in honor of Chingiz Aitmatov, it is still known by the old name among residents and guests of the capital. Most of the oaks growing in the park are of the same age as the city. The first trees were planted here by the famous Russian botanist Alexei Fetisov in 1890. The oaks have grown quite large, so in the summer there is a lot of shade in the park, and in the fall you can watch the variegated leaf fall. The park houses the Memorial to the Red Guards, as well as the Russian Drama Theater and the Church of St. Nicholas, which once housed the Museum of Fine Arts.</string>
+    <string name="park_about_botanic">The Botanical Garden has collected more than 2.5 thousand species and forms of woody and shrub plants, more than 3.5 thousand floral, ornamental, greenhouse, herbaceous and more than 8 thousand new forms and varieties of fruit plants. In terms of the richness of the species composition, the Botanical Garden takes 1st place in Central Asia and a leading place in the CIS.</string>
+    <string name="park_about_flamingo">Flamingo Park includes attractions, shady alleys, and cozy outdoor cafes. Flamingo Park is remarkable for its location; it is located on the southern outskirts of Bishkek in the so-called Green Zone. Flamingo Park is remarkable not only for man-made creations in the form of attractions and small architectural forms, I liked the large amount of greenery there most of all. Both coniferous and deciduous trees create a favorable microclimate, coolness and fresh air, which is still necessary for a hot, gassed city.</string>
+
+    <string name="monument_about_manas">The monument to Aikol Manas or Manas, the unification of Kyrgyz tribes into a single people, is dedicated to the main character of the work. The monument was erected in the heart of Bishkek, on the Ala-Too square. Its height together with the pedestal is 17 m, 55 cm. It is a bronze statue depicting a national hero riding a mighty horse.</string>
+    <string name="monument_about_kozhomkul">Kozhomkul became famous thanks to his amazing strength and those noble deeds that he performed. It is for this reason that a monument to such a hero and strongman as Kozhomkul was erected. And in 1993, the Sports Palace was named after this great athlete, who had great respect among his contemporaries and our generation. Perhaps this in some way had to influence the current athletes and somehow cheer up their spirit and become an example for them.</string>
+    <string name="monument_about_aytmatov">The monument to Chingiz Aitmatov in Bishkek was erected on the Ala-Too square Opened on August 30, 2011 Timed to coincide with the 20th anniversary of Kyrgyzstan\'s independence Sculptor Sooronbai Beishenbaev Cast in Moscow with money from donations and sponsors The height of the monument is 7m 70 cm</string>
+    <string name="monument_about_datka">Kurmanzhan Datka (1811-1907) queen of the Alai Kyrgyz. Thanks to her diplomatic skills, peace reigned in the southern regions of Kyrgyzstan. During her reign, Alai joined the Russian Empire. The monument to the Alai Queen was installed in the Oak Park in Bishkek in 2004. The sculptor V. Shestopal and the architect A. Muksinov managed to convey the image of the wise ruler. The monument is made of bronze and gray granite. The monument is one of the sights of Bishkek.</string>
+    <string name="monument_about_erkindik">The total height of the sculptural composition \"Erkindik\" without a pedestal is 12 meters. The weight of the forged copper monument is 4 tons. The statue represents the figure of a winged woman on a ball, which raises a tunduk over her head - the top of the yurt\'s structure, a symbol of the hearth.</string>
+
+    <string name="rest_about_arzu">We accept orders for events for companies from 8 to 500 people. We will compose a menu and organize a banquet, wedding and any other event for you so that it will make the best memories. Our chefs will surprise you with their skills, waiters - excellent service, and the interior - beauty and comfort.</string>
+    <string name="rest_about_navat">Type of kitchen:\nAsian\nSpecialized menu:\nSuitable for Vegetarians, Vegan Options, Halal\nMeal time:\nBreakfast, Lunch, Dinner, Late, Drinks</string>
+    <string name="rest_about_faiza">For many years we have been creating an atmosphere of comfort and relaxation for our clients. Every day we are visited by a huge number of people of all ages, from students to business people. All of them are united by one thing - love for oriental cuisine. \"Faiza\" is a network of cafes that has earned fame far beyond the borders of the country, thanks to its excellent cuisine, first-class service and attention to each guest.</string>
+    <string name="rest_about_frunze">The key to success of \"FRUNZE\" is, first of all, the varied zoning of the restaurant, which allows you to choose a location to your liking. The creative concept of \"FRUNZE\" is a beautiful interior, exquisite cuisine, several rooms, decorated in different styles and each with its own meaning.</string>
+    <string name="rest_about_buhara">A cozy room with a pronounced oriental style, friendly staff and fast food service at affordable prices disposes for dining and comfortable family evenings. The unique recipe of cooking, passed down from generation to generation, will not leave indifferent any visitor. For your convenience, there is a free round-the-clock delivery of your favorite dishes.</string>
+
+    <string name="rest_title_navat">Navat</string>
+    <string name="rest_title_arzu">Arzu</string>
+    <string name="rest_title_faiza">Faiza</string>
+    <string name="rest_title_frunze">Frunze</string>
+    <string name="rest_title_buhara">Buhara Assorti</string>
+
+    <string name="rest_desc_navat">Oktyabr distinct</string>
+    <string name="rest_desc_arzu">Pervomayskiy distinct</string>
+    <string name="rest_desc_frunze">Lenin distinct</string>
+    <string name="rest_desc_buhara">Oktyabr distinct</string>
+    <string name="rest_desc_faiza">Pervomayskiy distinct</string>
+
+    <string name="rest_location_arzu"><u>Togolok Moldo str. 13</u></string>
+    <string name="rest_location_navat"><u>Togolok Moldo str. 114/1</u></string>
+    <string name="rest_location_faiza"><u>Jibek Jolu blvd. 555</u></string>
+    <string name="rest_location_frunze"><u>Abdymomunova st. 220A/ Erkindik blvd.</u></string>
+    <string name="rest_location_buhara"><u>Ibraimova str. 720011, Bishkek</u></string>
+
+    <string name="rest_phone_arzu"><u>+996 550 696 697</u></string>
+    <string name="rest_phone_navat"><u>+996 551 531 111</u></string>
+    <string name="rest_phone_faiza"><u>+996 555 324 921</u></string>
+    <string name="rest_phone_frunze"><u>+996 551 664 466</u></string>
+    <string name="rest_phone_buhara"><u>+996 555 300 200</u></string>
+
+    <string name="park_title_panfilov">Panfilova</string>
+    <string name="park_title_pobeda">Square of Victory</string>
+    <string name="park_title_duboviy">Duboviy Park</string>
+    <string name="park_title_flamingo">Flamingo</string>
+    <string name="park_title_botanic">Botanic garden</string>
+
+    <string name="park_desc_panfilov">Oktyabr distinct</string>
+    <string name="park_desc_pobeda">Oktyabr distinct</string>
+    <string name="park_desc_duboviy">Pervomayskiy distinct</string>
+    <string name="park_desc_flamingo">Lenin distinct</string>
+    <string name="park_desc_botanic">Pervomayskiy distinct</string>
+
+    <string name="park_location_panfilov"><u>Bishkek, Park Panfilov</u></string>
+    <string name="park_location_pobeda"><u>Bishkek, Ploshad Pobedy</u></string>
+    <string name="park_location_duboviy"><u>Bishkek, Duboviy Park</u></string>
+    <string name="park_location_flamingo"><u>Flamingo Amusement Park, Bishkek, Chuy Province</u></string>
+    <string name="park_location_botanic"><u>Botanicheskiy Sad, Bishkek</u></string>
+
+    <string name="monument_title_kozhomkul">Kaba u. Kojomkul</string>
+    <string name="monument_title_manas">Manas</string>
+    <string name="monument_title_aytmatov">C. Aytmatov</string>
+    <string name="monument_title_kurmanzhan">Kurmanzhan Datka</string>
+    <string name="monument_title_erkindik">Erkindik</string>
+
+    <string name="monument_desc_kaba">Pervomaiskiy distinct</string>
+    <string name="monument_desc_manas">Pervomaiskiy distinct</string>
+    <string name="monument_desc_aytmatov">Pervomaiskiy distinct</string>
+    <string name="monument_desc_kurmanzhan">Sverdlovskiy distinct</string>
+    <string name="monument_desc_erkindik">Pervomaiskiy distinct</string>
+
+    <string name="monument_location_manas"><u>Manas monument, Bishkek</u></string>
+    <string name="monument_location_kozhomkul"><u>Kaba Uulu Kozhomkul, Biskek</u></string>
+    <string name="monument_location_aytmatov"><u>Chyngyz Aytmatov monument, Bishkek</u></string>
+    <string name="monument_location_kurmanzhan"><u>Kurmanzhan Datka Statue, Bishkek</u></string>
+    <string name="monument_location_erkindik"><u>Bishkek, Ala-Too Square</u></string>
+</resources>
